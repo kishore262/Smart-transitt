@@ -1,0 +1,6 @@
+{
+  "name": "HYD SMART TRANSIT AI",
+  "description": "Hyderabad Metropolitan Urban Mobility Authority unified multimodal transit planner, real-time telemetry console, OCC mission control, and sustainability intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
